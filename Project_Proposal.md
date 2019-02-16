@@ -18,7 +18,7 @@ This schema will contain about most impoverished groups of US citizens.
 ## Data source
 https://data.world/uscensusbureau/income-poverty-health-ins
 
-## Facts & Dimention
+## Facts & Dimensions
 
 * Fact - Population
 * Dimension - Age Band
