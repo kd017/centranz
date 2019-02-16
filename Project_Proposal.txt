@@ -1,0 +1,22 @@
+Project Proposal
+
+Team name: Transformers
+
+Scope of project
+Create a Schema of what the most impoverished group of US citizens is and to display it within MySQL.
+
+Members
+Aakash Brown
+William Brueske
+Kishore Dubagunta
+Mohammed Musa
+Joleen Sterner
+
+Data source
+https://data.world/uscensusbureau/income-poverty-health-ins
+
+Purpose of project
+The purpose of the project started with tracking what health care trends are occuring in the field and what might be the most costly. With the data available, we shifted direction to focus on really what groups are the most impoversihed and what factors relate to impoverished households. 
+
+Limitations
+Does not factor in undocumented aliens. An extension of the project would be that we dive into this a bit more in depth to include this group of households. Though we'd imagine there is much less data on households as they are undocumented. 
