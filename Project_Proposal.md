@@ -25,6 +25,7 @@ https://data.world/uscensusbureau/income-poverty-health-ins
 * Dimension - Disability Status
 * Dimension - Education
 * Dimension - Family Status
+* Dimension - Gender
 * Dimension - Nativity
 * Dimension - Race
 * Dimension - Region
