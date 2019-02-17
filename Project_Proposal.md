@@ -23,12 +23,13 @@ https://data.world/uscensusbureau/income-poverty-health-ins
 * Fact - Population
 * Dimension - Age Band
 * Dimension - Disability Status
+* Dimension - Education
 * Dimension - Family Status
-* Dimension - Marital Status
 * Dimension - Nativity
 * Dimension - Race
 * Dimension - Region
 * Dimension - Residence
+* Dimension - Work Experience
 * Dimension - Year
 
 ## Purpose of project
